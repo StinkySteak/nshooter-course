@@ -8,7 +8,7 @@ You can ignore the warning message and continue to the next episode. I will noti
 
 
 ## Ep 16. Player Manager - Fix Racing Condition
-If you are using Netick 0.11.16 or later, you don't really have to follow this episode. From Netick 0.11.16, It introduce the concept of `[ExecutionOrder]` Which allow developer to customize their `NetworkStart()` call order for both client and server.
+If you are using Netick `0.11.16` or later, you don't really have to follow this episode. From Netick `0.11.16`, It introduce the concept of `[ExecutionOrder]` Which allow developer to customize their `NetworkStart()` call order for both client and server.
 We can fix this to solve racing issue where the `PlayerCharacter` `NetworkStart` is trying to get It's player session however the `PlayerSession` itself hasn't registered on `PlayerManager`.
 Lower execution order means more priority.
 ### Player Session
