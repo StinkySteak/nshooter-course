@@ -59,8 +59,5 @@ public class PlayerCharacter : NetworkBehaviour
 
 Thus you don't have to modify your PlayerManager at all.
 
-## Ep 30. Spawn & Respawning
-
-
 
 
