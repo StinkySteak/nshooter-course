@@ -13,7 +13,7 @@ By today (01 May 2024), here are the Netick versions I'd recommend:
 #### `0.9.10`
 - Require Netick Utilities + Custom Caching for Player Manager
 
-[Netick Repository Link]([https://www.udemy.com/course/learn-to-create-a-competitive-shooter-in-unity-using-netick](https://github.com/karrarrahim/NetickForUnity))
+[Netick Repository Link](https://github.com/karrarrahim/NetickForUnity)
 
 ### Unity Toolbar Extender (Optional, Rapid prototyping purpose)
 [Toolbar Repository Link](https://github.com/marijnz/unity-toolbar-extender)
