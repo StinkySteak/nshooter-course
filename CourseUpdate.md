@@ -11,7 +11,7 @@ You can ignore the warning message and continue to the next episode. I will noti
 ### Part 2 - Host vs Server
 From Netick `0.11.4` it now introduces the concept of Server and Host. Host is just a server with a playable character. While in server, you don't have any input source.
 
-**Remember to "Run Host" if you want to have a playable character instead of "Run Server"**
+⚠⚠ **Remember to "Run Host" if you want to have a playable character instead of "Run Server"**
 
 There are two different ways to upgrade your code
 
